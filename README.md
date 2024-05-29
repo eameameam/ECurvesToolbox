@@ -51,18 +51,3 @@ Managing animation curves in Unity can be a tedious task, especially when dealin
 3. **Add Clips**: Add the animation clips you want to merge.
 4. **Select Priority Clip**: If applicable, select a priority clip.
 5. **Merge Clips**: Click the "Merge Clips" button to combine the clips into one.
-
-## Example Scene Setup
-
-1. **Create GameObject**: Create a new GameObject in your Unity scene.
-2. **Attach Script**: Attach the appropriate script for the desired functionality (e.g., AddCurves, RemoveCurves, RenameCurves, MergeClips).
-3. **Assign Parameters**: Configure the parameters in the inspector.
-4. **Run Scene**: Run the scene to see the changes applied to your animation clips.
-
-## Benefits
-
-- **Efficiency**: Streamline your animation workflow with easy-to-use tools.
-- **Flexibility**: Handle a variety of animation curve tasks with one utility.
-- **Optimization**: Combine clips and manage curves to reduce draw calls and improve performance.
-
-`CurveToolbox` enhances your Unity animation workflow, making it easier to manage and optimize your animations with powerful, intuitive tools.
