@@ -15,10 +15,10 @@ namespace Editor.CurveToolbox
 
         private Tab _currentTab = Tab.AddCurves;
 
-        [MenuItem("Escripts/Curve Toolbox")]
+        [MenuItem("Escripts/ECurve Toolbox")]
         public static void ShowWindow()
         {
-            GetWindow<ECurveToolboxWindow>("Curve Toolbox");
+            GetWindow<ECurveToolboxWindow>("ECurve Toolbox");
         }
 
         private void OnGUI()
